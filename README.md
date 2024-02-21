@@ -1,2 +1,2 @@
 # Redis
-Simple Caching with Redis.
+Simple Caching with Redis
