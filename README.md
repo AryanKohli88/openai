@@ -1,2 +1,2 @@
-# openai
-testing openai APIs
+# Redis
+Simple Caching with Redis
